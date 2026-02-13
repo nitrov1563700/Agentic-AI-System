@@ -1,0 +1,2 @@
+MAX_ITERATIONS = 5
+MODEL_NAME = "llama-3.1-8b-instant"
